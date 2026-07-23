@@ -1,4 +1,4 @@
-const CACHE_NAME = 'gigahrush-shell-be9fe9b555af785c';
+const CACHE_NAME = 'gigahrush-shell-851f37bd2efc3e4d';
 const SHELL = [
   './',
   './index.html',
